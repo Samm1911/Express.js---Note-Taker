@@ -55,7 +55,7 @@ app.post("/api/notes", (req, res) => {
     const newNote = {
       title,
       text,
-      // add a uniqid with the uniqid package
+      // add a uniq id with the uniq id package
       noteId: uniqid(),
     };
 
