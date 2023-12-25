@@ -27,8 +27,6 @@ and a plus to create new Notes in the navbar.
 
 Enter a new title and a new note.
 
-![index](https://github.com/Samm1911/Express.js-Note-Taker/blob/main/pix/3.png)
-
 Once you write your note a save button will appear in the navbar. Click it to save it next to the current notes.
 
 ![index](https://github.com/Samm1911/Express.js-Note-Taker/blob/main/pix/4.png)
