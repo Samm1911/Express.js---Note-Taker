@@ -94,7 +94,7 @@ const handleNoteDelete = (e) => {
     },
   })
     .then((response) => {
-      // if repsonse went through
+      // if response went through
       if (response.ok) {
         // remove the specific note
         noteElement.remove();
@@ -216,5 +216,4 @@ if (window.location.pathname === "/notes") {
   noteTitle.addEventListener("keyup", handleRenderSaveBtn);
   noteText.addEventListener("keyup", handleRenderSaveBtn);
 }
-
 getAndRenderNotes();

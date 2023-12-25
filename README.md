@@ -15,6 +15,8 @@ My Note taker let's you write notes easily and quickly and delete them as well.
 
 When you run the application you will be directed to the homepage. From there, you will click on the 'Get Started' button, which will take you to the actual note taker app.
 
+![index](https://github.com/Samm1911//Express.js-Note-Taker/Express.js-Note-Taker/pix/1.png)
+
 Then you are presented with notes in the left column,
 
 Title and text entry field in the right column,
